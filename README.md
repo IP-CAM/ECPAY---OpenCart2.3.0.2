@@ -1,3 +1,52 @@
+Green Technology OpenCart Module
+================
+<p align = "center">
+<img src = "https://img.shields.io/github/release/ecpay/opencart2.0.svg" alt = "last release">
+</ p>
+
+When providing cooperation stores and personal members When using an open original code store system, there is no need to deal with complex queues, and the green system can be interposed with the installation of the outer suite through the installation setup.
+
+
+table of Contents
+-----------------
+* [Support Version] (# support version)
+* [Installation] (# installation)
+* [Setting] (# setting)
+1. [Gold Flow] (# 金流)
+2. [Electronic Invoice] (# 电子 发票)
+3. [Logistics] (# logistics)
+* [Technical Support] (# Technical Support)
+
+
+
+Support version
+-----------------
+| OpenCart | Module |
+|: ---------: | ----------: |
+| 2.3.0.2 | 2.0.190801 |
+ 
+
+installation
+-----------------
+#### Environmental demand
+Please confirm that the PHP `CURL` moduan is installed.
+Installation and setting: https://www.php.net/manual/en/curl.installation.php
+
+#### Upload Module
+Copy the file in the admin, catalog directory to the corresponding path
+
+#### Upload VQMOD
+- Unzip OpenCART-2-3-0-X-VQMOD-2-6-1-2.zip
+- Copy the files in the admin directory to the corresponding path
+- Shopping cart Background -> Expansion -> Expansion Installation -> Upload EcPayPayment.vqmod.xml
+
+#### Update VQMOD
+`Shopping Cart Backstage` -> `Expansion Features` -> `Modify Settings` -> Click the upper right corner update button.
+
+set up
+
+---
+
 綠界科技 OpenCart 模組
 ===============
 <p align="center">
